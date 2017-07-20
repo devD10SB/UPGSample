@@ -1,0 +1,1 @@
+include ':app', ':upglib', ':commons-codec-1.8'
